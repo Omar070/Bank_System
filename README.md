@@ -1,6 +1,6 @@
 # Bank System – Console Application (C++)
 
-An educational console-based bank management system built during my first month of learning C++.  
+An educational console-based bank management system built during my early C++ learning journey.  
 The project focuses on programming fundamentals, logical flow, and basic system design concepts.
 
 ---
